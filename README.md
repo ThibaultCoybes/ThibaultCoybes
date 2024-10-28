@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 **Hi there! I’m Thibault**  
 
-<!--
-**ThibaultCoybes/ThibaultCoybes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate developer and entrepreneur who loves creating meaningful web experiences. With a knack for problem-solving and a strong eye for detail, I strive to build applications that not only function well but also provide delightful user experiences.
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- **Creative Thinker**: I enjoy brainstorming innovative solutions and pushing the boundaries of what’s possible.  
+- **Lifelong Learner**: I believe in continuous growth, always looking to expand my knowledge and skills.  
+- **Community Advocate**: I love connecting with others in the tech community, sharing insights, and collaborating on exciting projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Exploring  
+I’m diving into new ideas and methodologies to enhance user engagement and optimize workflows.  
+
+### 🌍 Let’s Connect!  
+I’m always open to networking, so don’t hesitate to reach out!
