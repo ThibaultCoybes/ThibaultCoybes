@@ -22,4 +22,4 @@ I’m always open to networking, so don’t hesitate to reach out!
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThibaultCoybes&theme=blood-dark&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThibaultCoybes&theme=dark&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
